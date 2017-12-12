@@ -29,6 +29,19 @@ p {
     font-size: 16px;
 }
 
+/* W3school에서 참고 */
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
 .footer {
     text-align: right;
     color: gray;
